@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fdfdeca-23c9-4dbb-a17d-6af9b3e4d1b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iCMimEhqXLYUq9T81Si6bZqKWy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laba_2C-20201018T193812Z-001" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApplication" />
+      <module name="LABS" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Apple/big&quot; &quot;Apple/small&quot; &quot;Apple/small&quot; &quot;Coctail/water/lemon&quot; &quot;Coctail/whiskey/orange&quot; &quot;Cheese&quot; &quot;Cola&quot; &quot;-sort&quot;  &quot;-calories&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1325" y="386" key="#Notifications" timestamp="1602167425740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1325" y="386" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1602167425740" />
+    <state x="828" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603018903450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603018903450" />
+    <state x="1154" y="196" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603018848363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1154" y="196" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603018848363" />
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1602421170424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602421170424" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603050039120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603050039120" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1603018936991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603018936991" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1603018936991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603018936991" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1603018936991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603018936991" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1603018936991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603018936991" />
+    <state width="949" height="347" key="GridCell.Tab.1.bottom" timestamp="1602854248752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602854248752" />
+    <state width="949" height="347" key="GridCell.Tab.1.center" timestamp="1602854248752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602854248752" />
+    <state width="949" height="347" key="GridCell.Tab.1.left" timestamp="1602854248751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602854248751" />
+    <state width="949" height="347" key="GridCell.Tab.1.right" timestamp="1602854248752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602854248752" />
+    <state x="1100" y="144" key="new project wizard" timestamp="1603022748362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1100" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603022748362" />
+  </component>
+</project>
