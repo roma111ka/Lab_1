@@ -4,7 +4,7 @@
         }
         public int CalculateCalories()
         {
-            calories = 50;
+            calories =45 ;
             return  calories;
         }
 

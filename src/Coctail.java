@@ -1,6 +1,6 @@
 public class Coctail extends Food {
-    String drink = "some drink";
-    String type = "some taste";
+    String drink = "Some drink";
+    String type = "Some taste";
     public Coctail(String drink) {
         super("Cocktail");
         this.drink = drink;
@@ -36,20 +36,22 @@ public class Coctail extends Food {
     @Override
     public int CalculateCalories() {
         switch (type){
+            case "lemon": calories = 13;break;
             case "orange": calories = 10; break;
             case "mango": calories = 15;break;
             case "chocolate": calories = 20;break;
-            case "lemon": calories = 13;break;
+
             default:
                 type = "some taste";
                 calories = 5;break;
         }
 
         switch (drink){
-            case "whiskey": calories += 23; break;
-            case "juice": calories += 15;break;
             case "water": calories += 4;break;
             case "sprite": calories += 70;break;
+            case "juice": calories += 15;break;
+            case "whiskey": calories += 23; break;
+
             default:
                 drink = "some drink";
                 calories = +5;break;
