@@ -22,7 +22,7 @@ public class Apple extends Food
     }
     @Override
     public boolean equals(Object apple) {
-        if (super.getName().equals(((String[])apple)[0])){      // является ли аргумент arg0 экземпляром класса Food
+        if (super.getName().equals(((String[])apple)[0])){
             if(((String[])apple).length == 2)
             {
                 return this.size.equals(((String[])apple)[1]);

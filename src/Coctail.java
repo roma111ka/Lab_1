@@ -34,7 +34,7 @@ public class Coctail extends Food {
 
     }
     @Override
-    public int CalculateCalories() {
+    public int CalculateCalories() {//Калькулятор калорий
         switch (type){
             case "lemon": calories = 13;break;
             case "orange": calories = 10; break;
